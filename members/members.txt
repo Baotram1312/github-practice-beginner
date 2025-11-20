@@ -4,7 +4,7 @@
 
 ## Format:
 ```
-- [Tên đầy đủ] - [Trường/Khoa] - [Email] - [GitHub username]
+- Nguyễn Bảo Trâm - HUST/Cơ Khí - baotramnguyen13122007@gmail.com - Baotram1312
 ```
 
 ## Danh sách:
