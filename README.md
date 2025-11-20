@@ -1,7 +1,8 @@
 # 🎯 GitHub Practice - Beginner Level
 
-> **Repo luyện tập Git & GitHub cho sinh viên Việt Nam**
-> **✨ Updated by Baotram1312**
+**Repo luyện tập Git & GitHub cho sinh viên HUST và Việt Nam**
+✨ Updated by [tên bạn]
+🔥 Updated by team member
 
 ## 📖 Giới thiệu
 
